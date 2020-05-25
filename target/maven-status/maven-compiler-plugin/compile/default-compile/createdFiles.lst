@@ -1,9 +1,0 @@
-com/nova/app/branch/HeadOffice.class
-com/nova/app/constant/Constants.class
-com/nova/app/account/CurrentAccount.class
-com/nova/app/account/BankAccount.class
-com/nova/app/BankApplication.class
-com/nova/app/account/SavingAccount.class
-com/nova/app/model/Transaction.class
-com/nova/app/branch/Branch.class
-com/nova/app/model/Customer.class
